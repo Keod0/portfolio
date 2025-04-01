@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+<<<<<<< HEAD
+=======
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+>>>>>>> 37e42b0658242445f89f9d1e206b0ce486843cb1
     "target": "ES2020",
     "useDefineForClassFields": true,
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
@@ -19,9 +23,15 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true,
+<<<<<<< HEAD
     
     /* Custom Types */
     "typeRoots": ["./node_modules/@types", "./src/types"]
   },
   "include": ["src", "src/types"]
+=======
+    "noUncheckedSideEffectImports": true
+  },
+  "include": ["src"]
+>>>>>>> 37e42b0658242445f89f9d1e206b0ce486843cb1
 }
