@@ -3,11 +3,13 @@
 Bem-vindo ao meu portfólio!
 Aqui você encontra meus projetos, experiências profissionais, competências técnicas e informações de contacto.
 
+## Pequena alteração para forçar novo deploy em 2024-06-08
+
 ## Sobre Mim
 
 Sou um desenvolvedor Full Stack apaixonado por tecnologia, análise de dados e automação. Tenho experiência em desenvolvimento web, dashboards, sistemas fotovoltaicos e suporte IT.
 
-- **Site online:** [rafaelport.com](https://rafaelport.com)
+- **Site online:** [https://keod0.github.io/portfolio/](https://keod0.github.io/portfolio/)
 - **Projetos em destaque:** Power BI, Web Apps, Automação, Suporte IT, Energia Solar
 
 ## Tecnologias
@@ -26,7 +28,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, análise de dados e a
 ## Como acessar
 
 Acesse meu portfólio em:
-[https://rafaelport.com](https://rafaelport.com)
+[https://keod0.github.io/portfolio/](https://keod0.github.io/portfolio/)
 
 ---
 
