@@ -26,8 +26,8 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, análise de dados e a
 ## Como acessar
 
 Acesse meu portfólio em:
-[https://rafaelport.com](https://rafaelport.com)
+[https://rafaelport.com](https://rafaelport.com) 
 
----
+--- 
 
 > Este site foi desenvolvido com React, Vite e TailwindCSS e está hospedado no GitHub Pages.
