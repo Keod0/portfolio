@@ -1,20 +1,22 @@
-<<<<<<< HEAD
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
+import path from 'path';
 
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  optimizeDeps: {
-    exclude: ['lucide-react'],
+  resolve: {
+    alias: {
+      '@': path.resolve(__dirname, './src'),
+    },
   },
+  build: {
+    outDir: 'dist',
+    sourcemap: true,
+  },
+  server: {
+    port: 5173,
+    open: true,
+  },
+  base: './'
 });
-=======
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-
-// https://vite.dev/config/
-export default defineConfig({
-  plugins: [react()],
-})
->>>>>>> 37e42b0658242445f89f9d1e206b0ce486843cb1

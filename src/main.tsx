@@ -1,22 +1,11 @@
-<<<<<<< HEAD
-import { StrictMode } from 'react';
-import { createRoot } from 'react-dom/client';
-import App from './App.tsx';
-import './index.css';
-=======
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import './i18n'
 import App from './App.tsx'
->>>>>>> 37e42b0658242445f89f9d1e206b0ce486843cb1
+import './index.css'
 
-createRoot(document.getElementById('root')!).render(
-  <StrictMode>
+ReactDOM.createRoot(document.getElementById('root')!).render(
+  <React.StrictMode>
     <App />
-<<<<<<< HEAD
-  </StrictMode>
-);
-=======
-  </StrictMode>,
+  </React.StrictMode>,
 )
->>>>>>> 37e42b0658242445f89f9d1e206b0ce486843cb1
