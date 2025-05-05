@@ -110,19 +110,20 @@ export const translations = {
           title: 'Portfolio',
           description: 'Meu site pessoal.',
           technologies: ['React', 'Vite', 'TailwindCSS'],
-          link: 'https://meuportfolio.com'
+          link: 'https://keod0.github.io/portfolio/'
         },
         project2: {
           title: 'App de Tarefas',
           description: 'Gerenciador de tarefas.',
           technologies: ['React Native', 'Expo'],
-          link: 'https://github.com/meuappdetarefas'
+          link: 'https://github.com/Keod0/EMCO',
+          code: 'https://github.com/Keod0/EMCO'
         },
         project3: {
           title: 'API de Dados',
           description: 'API para análise de dados.',
           technologies: ['Node.js', 'Express', 'PostgreSQL'],
-          link: 'https://github.com/minhaapi'
+          link: 'https://github.com/Keod0/EMCO'
         }
       }
     },
@@ -273,13 +274,14 @@ export const translations = {
           title: 'Portfolio',
           description: 'My personal website.',
           technologies: ['React', 'Vite', 'TailwindCSS'],
-          link: 'https://myportfolio.com'
+          link: 'https://keod0.github.io/NOME-DO-REPO/'
         },
         project2: {
           title: 'Task App',
           description: 'Task manager.',
           technologies: ['React Native', 'Expo'],
-          link: 'https://github.com/mytaskapp'
+          link: 'https://github.com/mytaskapp',
+          code: 'https://github.com/Keod0/EMCO'
         },
         project3: {
           title: 'Data API',

@@ -204,16 +204,6 @@ function App() {
                 >
                   {t('hero.cta')}
                 </a>
-                <a
-                  href="#projects"
-                  className={`px-6 py-3 rounded-lg font-medium ${
-                    darkMode
-                      ? 'bg-gray-800 text-white hover:bg-gray-700'
-                      : 'bg-gray-200 text-gray-900 hover:bg-gray-300'
-                  } transition-colors duration-200`}
-                >
-                  {t('projects.viewProject')}
-                </a>
               </div>
             </motion.div>
           </div>
